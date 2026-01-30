@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on ML projects, data pipelines, NLP, and systems-focused work
 
-📫 How to reach me: waheed.faizan@hotmail | [LinkedIn](https://www.linkedin.com/in/faizan-waheed-/)
+📫 How to reach me: waheed.faizan@hotmail.com | [LinkedIn](https://www.linkedin.com/in/faizan-waheed-/)
 
 
 ⚡ Fun fact: I enjoy working on problems that sit between data, systems, and real-world constraints
